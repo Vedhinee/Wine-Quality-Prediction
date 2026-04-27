@@ -95,9 +95,10 @@ venv\Scripts\activate
 source venv/bin/activate
 
 ### 3. Install Dependencies
-```bash
+
 pip install -r requirements.txt
 
 Note: If a requirements.txt file is not present, install the core libraries manually:
 
 pip install pandas numpy matplotlib seaborn scikit-learn
+
