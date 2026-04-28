@@ -83,7 +83,7 @@ To run this project locally, follow these steps:
 
 ### 1. Clone the Repository
 ```bash
-git clone https://github.com/your-username/wine-quality-prediction.git
+git clone https://github.com/Vedhinee/wine-quality-prediction.git
 cd wine-quality-prediction
 
 ### 2. Create a Virtual Environment (Recommended)
